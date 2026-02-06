@@ -35,7 +35,7 @@ The following comparison illustrates how the optimized team ratings translate in
 
 This example compares two NBA teams using optimized ratings to demonstrate how relative team strength translates into an expected point margin under neutral-site conditions.
 
-![NBA Celtics vs Lakers Comparison](assets/screenshots/nba_celtics_lakers_comparison.png)
+![NBA Celtics vs Lakers Comparison](assets/screenshots/NBA_celtics_lakers_comparison.png)
 
 ---
 
