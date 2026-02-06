@@ -73,23 +73,66 @@ Higher scoring and larger sample sizes in the NBA lead to more stable optimizati
 
 ## Repository Structure
 
+```text
 sports-outcome-prediction-solver/
 ├── README.md
 ├── docs/
-│ └── SuperBowl_and_Multi_Sport_Outcome_Prediction.pdf
+│   └── SuperBowl_and_Multi_Sport_Outcome_Prediction.pdf
 ├── models/
-│ ├── NFL/
-│ │ └── NFL2025SBResults.xlsx
-│ └── NBA/
-│ └── NBA2026SBResults.xlsx
+│   ├── NFL/
+│   │   └── NFL2025SBResults.xlsx
+│   └── NBA/
+│       └── NBA2026SBResults.xlsx
 ├── data/
-│ ├── NFL/
-│ │ └── NFL2025ResultsPrepped.xlsx
-│ └── NBA/
-│ └── NBA2026ResultsPrepped.xlsx
+│   ├── NFL/
+│   │   └── NFL2025ResultsPrepped.xlsx
+│   └── NBA/
+│       └── NBA2026ResultsPrepped.xlsx
 ├── scripts/
-│ ├── nfl_scraper.py
-│ └── nba_scraper.py
+│   ├── nfl_scraper.py
+│   └── nba_scraper.py
 └── assets/
-└── screenshots/
+    └── screenshots/
+```
+---
 
+## Tools & Technologies
+
+- **Microsoft Excel**
+  - Solver (GRG Nonlinear)
+  - Power Query
+- **Python**
+  - Data scraping
+  - CSV generation
+- **GitHub**
+  - Project documentation and version control
+
+---
+
+## How to Explore the Models
+
+1. Open the Excel files in the `models/` folder.
+2. Ensure the **Solver Add-in** is enabled in Excel.
+3. Review:
+   - Team ratings
+   - Home advantage parameter
+   - SSE objective
+   - Neutral-site comparison blocks
+
+No code execution is required to view results.
+
+---
+
+## Disclaimer
+
+This repository represents an **academic coursework project** completed for instructional purposes.  
+All data sources are publicly available, and all modeling follows classroom methodology.  
+The results are **not intended for real-world forecasting, betting, or commercial use**.
+
+---
+
+## Author
+
+**Benedict Daxell Santoso**  
+Business Analytics & Information Systems  
+Portfolio: GitHub projects focused on analytics, optimization, and data-driven decision-making
