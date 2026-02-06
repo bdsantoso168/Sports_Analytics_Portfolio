@@ -69,3 +69,27 @@ Higher scoring and larger sample sizes in the NBA lead to more stable optimizati
 
 ## Repository Structure
 
+---
+
+## Repository Structure
+
+sports-outcome-prediction-solver/
+├── README.md
+├── docs/
+│ └── SuperBowl_and_Multi_Sport_Outcome_Prediction.pdf
+├── models/
+│ ├── NFL/
+│ │ └── NFL2025SBResults.xlsx
+│ └── NBA/
+│ └── NBA2026SBResults.xlsx
+├── data/
+│ ├── NFL/
+│ │ └── NFL2025ResultsPrepped.xlsx
+│ └── NBA/
+│ └── NBA2026ResultsPrepped.xlsx
+├── scripts/
+│ ├── nfl_scraper.py
+│ └── nba_scraper.py
+└── assets/
+└── screenshots/
+
