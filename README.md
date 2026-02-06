@@ -23,6 +23,30 @@ Both models use the same underlying framework but produce different numerical ch
 
 ---
 
+## End-to-End Workflow
+
+This project follows a structured analytics pipeline:
+
+1. **Data Scraping (Python)**
+   - Python scripts were used to scrape historical game results from publicly available sports reference websites.
+   - Game-level data was exported into CSV format for downstream analysis.
+
+2. **Data Preparation (Excel Power Query)**
+   - CSV files were imported into Excel using Power Query.
+   - Data was cleaned, standardized, and transformed into a consistent game-level structure.
+   - Home teams, away teams, scores, and margins were prepared for modeling.
+
+3. **Modeling & Optimization (Excel Solver)**
+   - A least-squares optimization model was constructed in Excel.
+   - Solver was used to minimize the sum of squared errors (SSE) between actual and predicted margins.
+   - Team ratings and a home advantage parameter were optimized, subject to an average-rating constraint.
+
+4. **Interpretation & Comparison**
+   - Neutral-site comparisons were used to interpret team ratings.
+   - Model behavior was compared across the NFL and NBA to highlight sport-specific dynamics.
+
+---
+
 ## Modeling Approach
 
 For each league, the following steps were performed:
