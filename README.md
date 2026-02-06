@@ -17,7 +17,9 @@ The goal of this project is to explore how **optimization techniques** can be ap
 
 Two leagues are analyzed:
 - **NFL** – Low-scoring, high-variance environment
+  ![NFL Solver Summary](assets/screenshots/nfl_solver_summary.png)
 - **NBA** – High-scoring, large-sample environment
+  ![NBA Solver Summary](assets/screenshots/nba_solver_summary.png)
 
 Both models use the same underlying framework but produce different numerical characteristics due to sport-specific dynamics.
 
