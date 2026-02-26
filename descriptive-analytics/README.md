@@ -1,5 +1,5 @@
 # Descriptive Statistical Analysis
-<img width="3291" height="1216" alt="descriptive_banner" src="https://github.com/user-attachments/assets/87aea959-242b-47ca-bdc4-50edbe3a986d" />
+<img width="2992" height="1339" alt="descriptive_banner" src="https://github.com/user-attachments/assets/0ae5b895-241d-4b61-80ba-d0876ff6a83c" />
 
 ## Project Objective
 
