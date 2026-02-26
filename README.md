@@ -49,7 +49,14 @@ Includes:
 
 ## 📁 Repository Structure
 
-
+```text
+Sports_Analytics_Portfolio/
+├── predictive-models/
+│   ├── README.md
+│   ├── nfl-game-predictor/
+│   └── nba-game-predictor/
+│
+└── descriptive-analytics/
 
 ---
 
