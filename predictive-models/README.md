@@ -18,9 +18,9 @@ The goal of this project is to explore how **optimization techniques** can be ap
 
 Two leagues are analyzed:
 - **NFL** – Low-scoring, high-variance environment
-  ![NFL Solver Summary](assets/screenshots/NFL_solver_summary.png)
+  ![NFL Solver Summary](NFL-game-predictor/assets/screenshots/NFL_solver_summary.png)
 - **NBA** – High-scoring, large-sample environment
-  ![NBA Solver Summary](assets/screenshots/NBA_solver_summary.png)
+  ![NBA Solver Summary](NBA-game-predictor/assets/screenshots/NBA_solver_summary.png)
 
 Both models use the same underlying framework but produce different numerical characteristics due to sport-specific dynamics.
 
@@ -30,13 +30,13 @@ Both models use the same underlying framework but produce different numerical ch
 
 The following comparison illustrates how the optimized team ratings translate into a predicted point margin under a neutral-site assumption (no home-field advantage applied).
 
-![NFL Super Bowl Team Comparison](assets/screenshots/NFL_superbowl_prediction.png)
+![NFL Super Bowl Team Comparison](NFL-game-predictor/assets/screenshots/NFL_superbowl_prediction.png)
 
 ### Example Neutral-Site Team Comparison
 
 This example compares two NBA teams using optimized ratings to demonstrate how relative team strength translates into an expected point margin under neutral-site conditions.
 
-![NBA Celtics vs Lakers Comparison](assets/screenshots/NBA_celtics_lakers_comparison.png)
+![NBA Celtics vs Lakers Comparison](NBA-game-predictor/assets/screenshots/NBA_celtics_lakers_comparison.png)
 
 ---
 
