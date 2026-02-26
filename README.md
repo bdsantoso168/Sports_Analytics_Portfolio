@@ -1,7 +1,7 @@
 # Sports Analytics Portfolio
+<img width="3392" height="1248" alt="portfolio_banner" src="https://github.com/user-attachments/assets/c5367178-899b-4797-9fa6-84725c00a576" />
 
 This repository contains structured sports analytics projects covering predictive modeling, optimization, and statistical analysis across multiple leagues.
-
 ---
 
 ## 🔮 Predictive Models
