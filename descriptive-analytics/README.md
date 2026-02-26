@@ -1,4 +1,4 @@
-# NBA 2026 Descriptive Statistical Analysis
+# Descriptive Statistical Analysis
 
 ## Project Objective
 
