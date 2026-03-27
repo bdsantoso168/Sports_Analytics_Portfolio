@@ -1,3 +1,22 @@
+# Predictive Models in Sports Analytics
+
+This section of the portfolio focuses on building predictive and optimization models to analyze sports performance and support data-driven decision-making.
+
+## Projects Included
+
+### 🏀 NBA Game Predictor
+- Predicts game outcomes using historical performance data
+
+### 🏈 NFL Game Predictor
+- Forecasts NFL results using statistical modeling techniques
+
+### 🎯 Fantasy Team Optimization & Performance Prediction
+- Applies regression to predict player performance
+- Uses optimization (Excel Solver) to select the optimal team under budget constraints
+- Combines predictive and prescriptive analytics
+
+---
+
 # Sports Outcome Prediction Using Solver Optimization
 <img width="2802" height="1361" alt="SuperBowel and NBA Predictor Thumbnail" src="https://github.com/user-attachments/assets/4e5a8937-71f3-4286-ad34-e70e41db2feb" />
 
