@@ -1,4 +1,5 @@
 # Fantasy Team Optimization & Performance Prediction
+
 <img width="2912" height="1440" alt="Fantasy_Team_Optimization" src="https://github.com/user-attachments/assets/383ea9fd-86d1-4b1e-b405-331b17957c62" />
 
 ## Overview
