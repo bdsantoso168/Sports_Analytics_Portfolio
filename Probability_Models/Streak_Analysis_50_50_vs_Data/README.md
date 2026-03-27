@@ -1,8 +1,8 @@
 Z# Streak Analysis: Probability Distribution vs Empirical Data
-<img width="2816" height="1536" alt="Probability Models" src="https://github.com/user-attachments/assets/cb5e5fe2-5c1c-44f4-afbc-d82134d2a275" />
 
 ## Overview
 This project analyzes streak patterns in a sequence of binary outcomes (Completion vs Incompletion) using probability theory.
+<img width="2816" height="1536" alt="Probability Models" src="https://github.com/user-attachments/assets/c9127e35-ea25-493b-baa8-c0417348787f" />
 
 ## Objective
 - Compare empirical streak distribution with theoretical expectations
