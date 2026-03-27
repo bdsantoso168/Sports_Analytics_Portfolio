@@ -93,13 +93,18 @@ This indicates that the model is unbiased and provides a strong fit to the data.
 
 ## Project Structure
 ```
-fantasy-team-optimization/
-README.md
-excel/
-fantasy-team-optimization.xlsx
-visuals/ (optional)
+│
+├──fantasy-team-optimization/
+│
+├──README.md
+│
+├──excel/
+│  ├──fantasy-team-optimization.xlsx
+│
+├──visuals
+    ├──scatter_plot.png
+    ├──solver_result.ong
 ```
-
 
 ---
 
