@@ -1,5 +1,5 @@
-## Section 1: Super Bowl Predictor (NFL)
+## Super Bowl Predictor (NFL)
 Using data from the 2025 NFL regular season sourced from Pro-Football-Reference, a least-squares rating model was created. This model optimized team ratings and a home-field advantage parameter through Excel Solver by minimizing the sum of squared errors between predicted and actual game margins. The Super Bowl was considered a neutral-site game, so no home-field advantage was factored into the final prediction. Based on these ratings, the model forecasts that the Seattle Seahawks will beat the New England Patriots by about 4.18 points.  
 
-## Section 2: Model Interpretation 
+## Model Interpretation 
 The optimized model yielded an average team rating close to zero, indicating correct application of the Solver constraint and that ratings are relative to the league average. The estimated home-field advantage was approximately 9.82 points, indicating a strong home advantage in the 2025 dataset. Although this figure exceeds historical benchmarks discussed in class, it reflects the actual data characteristics from that season and underscores how real-world variability can affect model parameters. 
