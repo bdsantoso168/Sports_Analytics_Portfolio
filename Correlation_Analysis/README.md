@@ -59,12 +59,14 @@ Basketball Reference and analyzed in Excel using scatterplots and a full correla
 ### Analyses Performed
 
 **1. Single Predictor vs. Points Scored**
+<img width="858" height="455" alt="Figure 1 - Free Throw Attempts vs Points Per Game - NBA 2026 Season" src="https://github.com/user-attachments/assets/682f2d84-6582-4ab0-bd77-2709fac9c3f0" />
 
 A scatterplot and Pearson correlation were generated between field goals made (FG) and
 points per game (PTS). FG showed the strongest individual association with scoring output,
 which is expected given that it is the primary mechanism for accumulating points.
 
 **2. Two Independent Variables**
+<img width="860" height="419" alt="Figure 2 - Assists vs Turnovers Per Game - NBA 2026 Season" src="https://github.com/user-attachments/assets/d8fab71d-0c3a-42b6-a9f5-470f2134e679" />
 
 A scatterplot and correlation were run between assists (AST) and turnovers (TOV) to
 examine the relationship between two process-level stats. These metrics share a logical
@@ -73,6 +75,7 @@ resulting correlation validates that higher-usage players tend to occupy both ex
 this tradeoff.
 
 **3. Full Correlation Matrix**
+<img width="677" height="173" alt="Figure 3 - Correlation Matrix of NBA Offensive Statistics - NBA 2026 Season" src="https://github.com/user-attachments/assets/e274ea0d-75f3-40ca-91ab-7d68602fa46b" />
 
 A complete correlation matrix was built across all scoring-relevant variables using the
 Excel Data Analysis Toolpak, with conditional formatting applied to flag any pair with
@@ -90,6 +93,7 @@ r > 0.60. Key takeaways:
 ---
 
 ## Q2 - EPL Pythagorean Win Theorem Test
+<img width="1072" height="361" alt="Figure 4 - EPL Pythagorean Theorem Calculation Table (all 20 teams, including Total Error = 2 636 at the bottom)" src="https://github.com/user-attachments/assets/9881cd7d-20aa-46be-a31f-d624e9335f7b" />
 
 ### Overview
 
