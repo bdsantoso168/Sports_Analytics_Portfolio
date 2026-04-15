@@ -75,6 +75,7 @@ resulting correlation validates that higher-usage players tend to occupy both ex
 this tradeoff.
 
 **3. Full Correlation Matrix**
+
 <img width="677" height="173" alt="Figure 3 - Correlation Matrix of NBA Offensive Statistics - NBA 2026 Season" src="https://github.com/user-attachments/assets/e274ea0d-75f3-40ca-91ab-7d68602fa46b" />
 
 A complete correlation matrix was built across all scoring-relevant variables using the
