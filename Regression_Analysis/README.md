@@ -52,7 +52,7 @@ Two models were compared:
 regression-analysis/
 ├── README.md
 ├── scripts/
-│   └── ISOM232_Regression_NFL_NBA.R
+│   └── BDS_Regression_NFL_NBA.R
 ├── data/
 │   ├── NationalFootballLeague.xlsx
 │   └── NBA.xlsx
