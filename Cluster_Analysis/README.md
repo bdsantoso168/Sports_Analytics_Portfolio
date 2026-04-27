@@ -125,11 +125,9 @@ Cluster_Analysis/
 │   ├── Hierarchical.sav             (SPSS data file after hierarchical run)
 │   ├── Kmeans.sav                   (SPSS data file after K-means run)
 │   └── Results.spv                  (SPSS output viewer: agglomeration schedule, dendrogram, ANOVA)
-├── output/
-│   └── BDS_ClusterAnalysis.xlsx     (final submission workbook: Hierarchical + K-means + Compare sheets)
-└── screenshots/
-    ├── dendrogram.png               (Ward's dendrogram from SPSS output)
-    └── profiling_tables.png         (Excel cluster profiling blocks)
+└── output/
+    └── BDS_ClusterAnalysis.xlsx     (final submission workbook: Hierarchical + K-means + Compare sheets)
+    └── Clustering_Output.pdf        (full SPSS output: agglomeration 
 ```
 
 ---
