@@ -1,7 +1,8 @@
 # Sports Analytics Portfolio
 
 This repository showcases a collection of sports analytics projects spanning probability modeling, descriptive analysis, predictive modeling, and optimization techniques. The goal is to demonstrate how data can be used to analyze performance, predict outcomes, and support data-driven decision-making.
-<img width="2555" height="1526" alt="portfolio_banner" src="https://github.com/user-attachments/assets/81e0b2bd-d443-4c14-b062-d20d8af61f8b" />
+
+<img width="2580" height="1536" alt="portfolio_banner" src="https://github.com/user-attachments/assets/838c8530-f535-4e4d-93c7-d20503c47983" />
 
 ---
 
