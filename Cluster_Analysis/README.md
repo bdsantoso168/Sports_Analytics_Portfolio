@@ -5,6 +5,8 @@
 
 > Segment 143 MLB players into performance tiers using two unsupervised learning methods — Hierarchical (Ward's linkage) and K-means — then profile each cluster by key batting statistics.
 
+<img width="2880" height="1472" alt="cluster_analysis_banner" src="https://github.com/user-attachments/assets/6e657f63-db65-4f4c-99a8-a8d617ddfb7a" />
+
 ---
 
 ## Dataset
