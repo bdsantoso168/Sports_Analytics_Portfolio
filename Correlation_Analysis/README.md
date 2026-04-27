@@ -3,6 +3,8 @@
 Two independent analyses exploring how statistical relationships in sports data can surface
 meaningful signals, and where models built for one sport break down when applied to another.
 
+<img width="2752" height="1536" alt="Correlation Analysis" src="https://github.com/user-attachments/assets/6f9087ac-1470-4326-8182-a966fac60aeb" />
+
 ---
 
 ## Table of Contents
